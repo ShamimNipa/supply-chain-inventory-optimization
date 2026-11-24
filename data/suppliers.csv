@@ -1,0 +1,6 @@
+supplier_id,supplier_name,region,expected_lead_time_days
+1,Global Tech Supplies,Asia,7
+2,Asia Electronics Ltd,Europe,12
+3,Digital Parts Co,Asia,9
+4,Prime Components,North America,15
+5,Smart Supply Group,Asia,6

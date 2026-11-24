@@ -1,0 +1,21 @@
+product_id,product_name,category,unit_cost,supplier_id,reorder_threshold,selling_price
+1,Laptop,Electronics,112,2,83,145.6
+2,Mouse,Accessories,445,4,22,578.5
+3,Keyboard,Accessories,280,2,70,364.0
+4,Monitor,Electronics,116,4,26,150.8
+5,Headphones,Accessories,81,5,40,105.3
+6,Printer,Electronics,710,1,92,923.0
+7,Webcam,Accessories,30,4,58,39.0
+8,Router,Electronics,624,2,37,811.2
+9,Smartphone,Electronics,131,5,23,170.3
+10,Tablet,Electronics,476,4,79,618.8
+11,USB Drive,Storage,224,1,33,291.2
+12,SSD,Storage,340,1,28,442.0
+13,RAM,Components,468,3,72,608.4
+14,Power Bank,Accessories,97,3,21,126.1
+15,Speaker,Accessories,382,2,79,496.6
+16,Microphone,Accessories,109,4,90,141.7
+17,Smart Watch,Electronics,673,4,63,874.9
+18,Charger,Accessories,140,3,27,182.0
+19,Graphics Card,Components,671,4,66,872.3
+20,Hard Drive,Storage,318,4,54,413.4
